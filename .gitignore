@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Conda environments
+*.yaml
+
+# VS Code settings
+.vscode/
+
